@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>AForge.MachineLearning</AssemblyName>
+    <RootNamespace>AForge.MachineLearning</RootNamespace>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<SignAssembly>true</SignAssembly>
+	<AssemblyOriginatorKeyFile>AForge.MachineLearning.snk</AssemblyOriginatorKeyFile>
+	<DelaySign>false</DelaySign>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>AForge.Genetic</AssemblyName>
+    <RootNamespace>AForge.Genetic</RootNamespace>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<SignAssembly>true</SignAssembly>
+	<AssemblyOriginatorKeyFile>AForge.Genetic.snk</AssemblyOriginatorKeyFile>
+	<DelaySign>false</DelaySign>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core_Std.csproj" />
+    <ProjectReference Include="..\Math\Math_Std.csproj" />
+  </ItemGroup>
+
+</Project>
