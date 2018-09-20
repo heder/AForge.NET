@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Imaging.Formats</AssemblyName>
     <RootNamespace>AForge.Imaging.Formats</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Imaging.Formats.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>

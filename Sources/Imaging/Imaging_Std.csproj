@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Imaging</AssemblyName>
     <RootNamespace>AForge.Imaging</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Imaging.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>

@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Genetic</AssemblyName>
     <RootNamespace>AForge.Genetic</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Genetic.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>

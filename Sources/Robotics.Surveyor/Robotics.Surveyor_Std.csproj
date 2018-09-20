@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Robotics.Surveyor</AssemblyName>
     <RootNamespace>AForge.Robotics.Surveyor</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Robotics.Surveyor.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>

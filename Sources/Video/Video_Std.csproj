@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Video</AssemblyName>
     <RootNamespace>AForge.Video</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Video.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>

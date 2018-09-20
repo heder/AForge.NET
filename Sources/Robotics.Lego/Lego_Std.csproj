@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Robotics.Lego</AssemblyName>
     <RootNamespace>AForge.Robotics.Lego</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Robotics.Lego.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>

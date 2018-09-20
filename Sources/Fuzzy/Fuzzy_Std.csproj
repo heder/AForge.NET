@@ -5,7 +5,7 @@
     <AssemblyName>AForge.Fuzzy</AssemblyName>
     <RootNamespace>AForge.Fuzzy</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<DelaySign>false</DelaySign>
 	<AssemblyOriginatorKeyFile>AForge.Fuzzy.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>

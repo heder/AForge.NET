@@ -5,7 +5,7 @@
     <AssemblyName>AForge</AssemblyName>
     <RootNamespace>AForge</RootNamespace>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<DelaySign>false</DelaySign>
 	<AssemblyOriginatorKeyFile>AForge.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>

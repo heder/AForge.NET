@@ -5,7 +5,7 @@
     <RootNamespace>AForge.Math</RootNamespace>
     <AssemblyName>AForge.Math</AssemblyName>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<SignAssembly>true</SignAssembly>
+	<SignAssembly>false</SignAssembly>
 	<AssemblyOriginatorKeyFile>AForge.Math.snk</AssemblyOriginatorKeyFile>
 	<DelaySign>false</DelaySign>
   </PropertyGroup>
